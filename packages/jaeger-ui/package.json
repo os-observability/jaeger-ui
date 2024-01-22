@@ -27,7 +27,7 @@
     "@types/redux-actions": "2.2.1",
     "@types/redux-form": "^8.3.10",
     "@types/rollup-plugin-visualizer": "^4.2.1",
-    "@vitejs/plugin-legacy": "^5.0.0",
+    "@vitejs/plugin-legacy": "4.0.1",
     "@vitejs/plugin-react": "^4.2.1",
     "@wojtekmaj/enzyme-adapter-react-17": "^0.8.0",
     "babel-jest": "^29.5.0",
